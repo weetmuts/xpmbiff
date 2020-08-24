@@ -1,7 +1,7 @@
 # xpmbiff
 Display an image inside an fvwm GoodStuff icon, to indicate if you have unready mail or not.
 
-Fredrik Öhrström d92-foh_at_nada.kth.se
+Fredrik Öhrström d92-foh@nada.kth.se
 9 December 1995
 
 I wanted xbiff to show in the buttonbar, however I did not want to have a
