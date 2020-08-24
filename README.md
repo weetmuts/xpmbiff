@@ -9,7 +9,7 @@ separate button to start my mailreader. Plus I wanted to have just as
 beautiful xpm pixmaps as on the other buttons. Well, since I couldn't
 find such a program I wrote one myself. Perhaps there is one already, well
 here is mine anyway.
--------------------
+
 xpmbiff is a VERY simple mail notification program. It can display
 a colored and shaped window which shows the status of the spoolfile.
 It shows an empty icon if it is empty, otherwise a full icon.
